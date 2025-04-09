@@ -16,7 +16,7 @@ Clone este repositório e instale as dependências necessárias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/genio-sarcastico.git
+git clone https://github.com/ThiagoSodre/ChatBot
 cd genio-sarcastico
 
 # Criar um ambiente virtual (opcional, mas recomendado)
